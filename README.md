@@ -12,7 +12,7 @@
 
 ## 배포 주소
 
-> **URL** : [https://harudiary.site](https://harudiary.site) <br>
+> **URL** : [https://harudiary.asia](https://harudiary.asia) <br>
 
 > **DEMO USER** <br>
 > Email : test@naver.com <br>
